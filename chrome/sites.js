@@ -34,7 +34,8 @@ var sites = [
     "www.hothk.com",
     "www.kuso01.tv",
     "shareba.com",
-    "discoss.com"
+    "discoss.com",
+    "thefundaily.com"
 ];
 
 module.exports = sites;
